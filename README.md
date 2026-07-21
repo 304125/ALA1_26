@@ -15,4 +15,4 @@ The following libraries are used in the code examples and need to be installed i
 - `sympy`
 - `matplotlib`
 
-You are welcome to use other libraries, such as `numpy` and `scipy` if you wish to do that. 
+You are welcome to use other libraries, such as `numpy` and `scipy` if you wish to do that. The file `00_Python_Introduction.ipynb` includes examples of comparison between `numpy`/`scipy` and `sympy` for matrix operations.
